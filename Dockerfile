@@ -1,4 +1,4 @@
-FROM atendapontual/evolution-api:latest
+FROM evolutionapi/evolution-api:latest
 ENV AUTHENTICATION_TYPE=apikey \
     AUTHENTICATION_API_KEY=wachat \
     SERVER_URL=https://my-waha-bot.onrender.com
