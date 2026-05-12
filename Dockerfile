@@ -1,1 +1,1 @@
-FROM devforth/waha
+FROM devforth/waha:latest
